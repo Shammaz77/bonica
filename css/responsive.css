@@ -408,7 +408,7 @@
 	}
 
 	header .navbar-header {
-		background: #111;
+        background: #226346;
 		padding-top: 10px;
 		margin: 0 !important;
 		height: 160px;
@@ -930,7 +930,7 @@
 
 @media only screen and (max-width: 767px) {
 	#home-2 .service {
-		padding: 70px 0;
+		padding: 70px 0px 0px 0px;
 	}
 
 	#home-2 .service .section-title {

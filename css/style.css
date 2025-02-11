@@ -2235,9 +2235,9 @@ header .search-box form button {
 #1.12	footer
 --------------------------------------------------------------*/
 footer {
-	background-color: #262626;
+	background-color: #35461e;
 	padding: 100px 0 23px;
-	color: #fff;
+	color: #e7ffea;
 	position: relative;
 	overflow: hidden;
 }
@@ -2254,7 +2254,7 @@ footer li,
 footer a,
 footer p {
 	font-size: 15px;
-	color: #666;
+	color: #ffe6e6;
 }
 
 footer h2 {
@@ -2320,7 +2320,7 @@ footer ul li a:hover {
 	height: 34px;
 	line-height: 34px;
 	font-size: 16px;
-	color: #666;
+	color: #fff4f4;
 	border: 1px solid #313131;
 	padding: 0;
 	text-align: center;
@@ -5259,7 +5259,7 @@ footer .copyright .nav a:hover {
 @media only screen and (max-width: 767px) {
 	/*section-title*/
 	.spa-advantages {
-		padding-top: 60px;
+		padding-top: 10px;
 		padding-bottom: 60px;
 	}
 
